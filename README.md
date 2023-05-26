@@ -8,4 +8,4 @@
 
 ## Propriedades rurais de Louveira-SP
 
-#### Propriedades sobreposições [Ver no mapa](Propriedades_Sobreposicao_Louveira.html)
+#### Propriedades sobreposições ([Ver no mapa](Propriedades_Sobreposicao_Louveira.html))
