@@ -14,3 +14,7 @@
 ## Propriedades rurais de Louveira-SP
 
 #### Propriedades sobreposição em correção ([ver no mapa](propriedades_sobreposicao_louveira_correcao.html))
+
+## Adequação das APPs
+
+#### Ver regras em: [EMBRAPA](https://www.embrapa.br/codigo-florestal/entenda-o-codigo-florestal/area-de-preservacao-permanente)
