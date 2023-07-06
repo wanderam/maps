@@ -13,7 +13,7 @@
 
 ## Propriedades rurais de Louveira-SP
 
-#### Propriedades sobreposição em correção ([ver no mapa](propriedades_sobreposicao_louveira_correcao.html))
+#### Propriedades rurais da base CAR que apresentam sobreposições ([ver no mapa](propriedades_sobreposicao_louveira_correcao.html))
 #### Propriedades rurais corrigidas ([ver no mapa](propriedades_rurais_louveira.html))
 
 ## Adequação das APPs
