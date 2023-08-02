@@ -13,7 +13,10 @@
 
 ## Adequação das APPs
 
-#### Ver regras em: [EMBRAPA](https://www.embrapa.br/codigo-florestal/entenda-o-codigo-florestal/area-de-preservacao-permanente)
+##### Art. 28 O programa de Pagamento por Serviços Ambientais (PSA) será implantado por sub-bacia hidrográfica, em ordem de prioridade, observados os dispositivos legais incidentes e critérios técnicos definidos pela Secretaria de Gestão Ambiental em decreto do Poder Executivo, objetivando incentivar a adoção de práticas conservacionistas da água e do solo, como, por exemplo, a construção de terraços e bacias de infiltração, a readequação de estradas vicinais, a recuperação e proteção de nascentes, o reflorestamento de áreas de preservação permanente e reserva legal, aumento da cobertura vegetal e saneamento ambiental nas propriedades existentes no município de Louveira.
+
+##### Art. 30
+§1º Para as áreas rurais consolidadas previstas no artigo 61-A da Lei Federal 12.651/12, será obrigatória a recomposição de no mínimo 20 (vinte) metros da Área de Preservação Permanente de cursos d’água perenes e intermitentes e de lagos e lagoas naturais e de no mínimo 30 (trinta) metros de raio das nascentes perenes e intermitentes.
 
 
 ## Propriedades rurais de Louveira-SP
