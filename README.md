@@ -13,6 +13,11 @@
 
 ## Adequação das APPs
 
+LEI Nº 2.456 DE 05 DE AGOSTO DE 2015.
+
+### CAPÍTULO II
+DO PROGRAMA DE PAGAMENTOS POR SERVIÇOS AMBIENTAIS (PSA)
+
 ##### Art. 28 O programa de Pagamento por Serviços Ambientais (PSA) será implantado por sub-bacia hidrográfica, em ordem de prioridade, observados os dispositivos legais incidentes e critérios técnicos definidos pela Secretaria de Gestão Ambiental em decreto do Poder Executivo, objetivando incentivar a adoção de práticas conservacionistas da água e do solo, como, por exemplo, a construção de terraços e bacias de infiltração, a readequação de estradas vicinais, a recuperação e proteção de nascentes, o reflorestamento de áreas de preservação permanente e reserva legal, aumento da cobertura vegetal e saneamento ambiental nas propriedades existentes no município de Louveira.
 
 ##### Art. 30
